@@ -2,12 +2,13 @@
     width: 200px;
     height: 100vh;
     position: fixed;
-    background-color: #86da42;
+    background-color: #9fe06a;
     padding: 20px;
 }
 
 .sidebar h2 {
     text-align: center;
+    color:#174b20
 }
 
 .sidebar ul {
@@ -17,6 +18,7 @@
 
 .sidebar ul li {
     margin: 20px 0;
+    border-width: 1px;
 }
  
 .sidebar ul li a { 
