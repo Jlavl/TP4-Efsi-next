@@ -5,7 +5,7 @@ import layout from "./layout.js"
 const Home = () => {
   return (
     <main className={styles.main}>
-
+      <text>Esta es la Home.</text>
     </main>
   );
 }

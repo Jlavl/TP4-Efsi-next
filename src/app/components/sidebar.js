@@ -8,9 +8,9 @@ return (
     <h2>Navegación</h2>
     <ul>
     <li><Link href="/">Home</Link></li>
-    <li><Link href="/quienes-somos">About</Link></li>
-    <li><Link href="/reservas">Services</Link></li>
-    <li><Link href="/contacto ">Contact</Link></li>
+    <li><Link href="/quienes-somos">Quienes somos</Link></li>
+    <li><Link href="/reservas">Reservas</Link></li>
+    <li><Link href="/contacto ">Contactanos!</Link></li>
     </ul>
 </div>
 );
