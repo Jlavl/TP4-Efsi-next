@@ -3,9 +3,9 @@ import styles from "./page.module.css";
 import layout from "./layout.js"
 
 const Home = () => {
-  return (
+  return ( 
     <main className={styles.main}>
-      <text>Esta es la Home.</text>
+      <text classname={styles.description}>Esta es la Home.</text>
     </main>
   );
 }
